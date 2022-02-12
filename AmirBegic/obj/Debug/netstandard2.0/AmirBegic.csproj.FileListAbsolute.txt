@@ -1,0 +1,39 @@
+C:\Users\KORISNIK\OneDrive\Desktop\New folder\AmirBegic\AmirBegic\bin\Debug\netstandard2.0\AmirBegic.deps.json
+C:\Users\KORISNIK\OneDrive\Desktop\New folder\AmirBegic\AmirBegic\bin\Debug\netstandard2.0\AmirBegic.dll
+C:\Users\KORISNIK\OneDrive\Desktop\New folder\AmirBegic\AmirBegic\bin\Debug\netstandard2.0\ref\AmirBegic.dll
+C:\Users\KORISNIK\OneDrive\Desktop\New folder\AmirBegic\AmirBegic\bin\Debug\netstandard2.0\AmirBegic.pdb
+C:\Users\KORISNIK\OneDrive\Desktop\New folder\AmirBegic\AmirBegic\obj\Debug\netstandard2.0\AmirBegic.csproj.AssemblyReference.cache
+C:\Users\KORISNIK\OneDrive\Desktop\New folder\AmirBegic\AmirBegic\obj\Debug\netstandard2.0\AmirBegic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KORISNIK\OneDrive\Desktop\New folder\AmirBegic\AmirBegic\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\KORISNIK\OneDrive\Desktop\New folder\AmirBegic\AmirBegic\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\KORISNIK\OneDrive\Desktop\New folder\AmirBegic\AmirBegic\obj\Debug\netstandard2.0\SplashScreen.xaml.g.cs
+C:\Users\KORISNIK\OneDrive\Desktop\New folder\AmirBegic\AmirBegic\obj\Debug\netstandard2.0\AmirBegic.AssemblyInfoInputs.cache
+C:\Users\KORISNIK\OneDrive\Desktop\New folder\AmirBegic\AmirBegic\obj\Debug\netstandard2.0\AmirBegic.AssemblyInfo.cs
+C:\Users\KORISNIK\OneDrive\Desktop\New folder\AmirBegic\AmirBegic\obj\Debug\netstandard2.0\AmirBegic.csproj.CoreCompileInputs.cache
+C:\Users\KORISNIK\OneDrive\Desktop\New folder\AmirBegic\AmirBegic\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\KORISNIK\OneDrive\Desktop\New folder\AmirBegic\AmirBegic\obj\Debug\netstandard2.0\AmirBegic.dll
+C:\Users\KORISNIK\OneDrive\Desktop\New folder\AmirBegic\AmirBegic\obj\Debug\netstandard2.0\ref\AmirBegic.dll
+C:\Users\KORISNIK\OneDrive\Desktop\New folder\AmirBegic\AmirBegic\obj\Debug\netstandard2.0\AmirBegic.pdb
+C:\Users\KORISNIK\OneDrive\Desktop\New folder\AmirBegic\AmirBegic\obj\Debug\netstandard2.0\Login.xaml.g.cs
+C:\Users\KORISNIK\OneDrive\Desktop\New folder\AmirBegic\AmirBegic\obj\Debug\netstandard2.0\Register.xaml.g.cs
+C:\Users\KORISNIK\OneDrive\Desktop\New folder\AmirBegic\AmirBegic\obj\Debug\netstandard2.0\Hotel.xaml.g.cs
+C:\Users\KORISNIK\OneDrive\Desktop\AmirBegic\AmirBegic\bin\Debug\netstandard2.0\AmirBegic.deps.json
+C:\Users\KORISNIK\OneDrive\Desktop\AmirBegic\AmirBegic\bin\Debug\netstandard2.0\AmirBegic.dll
+C:\Users\KORISNIK\OneDrive\Desktop\AmirBegic\AmirBegic\bin\Debug\netstandard2.0\ref\AmirBegic.dll
+C:\Users\KORISNIK\OneDrive\Desktop\AmirBegic\AmirBegic\bin\Debug\netstandard2.0\AmirBegic.pdb
+C:\Users\KORISNIK\OneDrive\Desktop\AmirBegic\AmirBegic\obj\Debug\netstandard2.0\AmirBegic.csproj.AssemblyReference.cache
+C:\Users\KORISNIK\OneDrive\Desktop\AmirBegic\AmirBegic\obj\Debug\netstandard2.0\AmirBegic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KORISNIK\OneDrive\Desktop\AmirBegic\AmirBegic\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\KORISNIK\OneDrive\Desktop\AmirBegic\AmirBegic\obj\Debug\netstandard2.0\Login.xaml.g.cs
+C:\Users\KORISNIK\OneDrive\Desktop\AmirBegic\AmirBegic\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\KORISNIK\OneDrive\Desktop\AmirBegic\AmirBegic\obj\Debug\netstandard2.0\Register.xaml.g.cs
+C:\Users\KORISNIK\OneDrive\Desktop\AmirBegic\AmirBegic\obj\Debug\netstandard2.0\SplashScreen.xaml.g.cs
+C:\Users\KORISNIK\OneDrive\Desktop\AmirBegic\AmirBegic\obj\Debug\netstandard2.0\AmirBegic.AssemblyInfoInputs.cache
+C:\Users\KORISNIK\OneDrive\Desktop\AmirBegic\AmirBegic\obj\Debug\netstandard2.0\AmirBegic.AssemblyInfo.cs
+C:\Users\KORISNIK\OneDrive\Desktop\AmirBegic\AmirBegic\obj\Debug\netstandard2.0\AmirBegic.csproj.CoreCompileInputs.cache
+C:\Users\KORISNIK\OneDrive\Desktop\AmirBegic\AmirBegic\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\KORISNIK\OneDrive\Desktop\AmirBegic\AmirBegic\obj\Debug\netstandard2.0\AmirBegic.dll
+C:\Users\KORISNIK\OneDrive\Desktop\AmirBegic\AmirBegic\obj\Debug\netstandard2.0\ref\AmirBegic.dll
+C:\Users\KORISNIK\OneDrive\Desktop\AmirBegic\AmirBegic\obj\Debug\netstandard2.0\AmirBegic.pdb
+C:\Users\KORISNIK\OneDrive\Desktop\AmirBegic\AmirBegic\obj\Debug\netstandard2.0\Ispis.xaml.g.cs
+C:\Users\KORISNIK\OneDrive\Desktop\AmirBegic\AmirBegic\obj\Debug\netstandard2.0\Korisnik.xaml.g.cs

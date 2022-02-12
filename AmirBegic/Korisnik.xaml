@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AmirBegic.Korisnik" BackgroundColor="Coral">
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid Grid.Row="1"  Margin="20,10">
+                <StackLayout Orientation="Vertical" Margin="20,20" HorizontalOptions="FillAndExpand">
+                    <StackLayout Orientation="Horizontal" Margin="0,0,0,20">
+                        <StackLayout Orientation="Vertical" HorizontalOptions="StartAndExpand">
+                            <Label Text="IME" TextColor="Black"></Label>
+                            <Label Text="Amir Begić" TextColor="Black" FontAttributes="Bold" ></Label>
+                        </StackLayout>
+
+                        <StackLayout Orientation="Vertical" >
+                            <Label Text="DATUM RODJENJA" TextColor="Black"></Label>
+                            <Label FontAttributes="Bold" Text="06/08/2000" TextColor="Black" ></Label>
+                        </StackLayout>
+
+
+                        
+                        
+                    </StackLayout>
+
+                    <StackLayout Orientation="Horizontal" Margin="0,0,0,20">
+                        <StackLayout Orientation="Vertical">
+                            <Label Text="ADRESA" TextColor="Black"></Label>
+                            <Label Text="Prve zeničke brigade 1C" TextColor="Black" ></Label>
+                        </StackLayout>
+
+                        <StackLayout Orientation="Vertical" Margin="60,0">
+                            <Label Text="GRAD" TextColor="Black"></Label>
+                            <Label Text="Zenica" TextColor="Black" ></Label>
+                        </StackLayout>
+                        
+                        
+                    </StackLayout>
+
+
+                    <StackLayout Orientation="Horizontal" Margin="0,0,0,20">
+                        <StackLayout Orientation="Vertical">
+                            <Label Text="BROJ KARTICE" TextColor="Black"></Label>
+                            <Label Text="****   ****    ****    2345" TextColor="Black" ></Label>
+                        </StackLayout>
+
+
+                        <StackLayout Orientation="Vertical" Margin="30,0">
+                            <Label Text="      BROJ TELEFONA" TextColor="Black"></Label>
+                            <Label Text="      387 62 653 693 " TextColor="Black" ></Label>
+                        </StackLayout>
+                        
+                    </StackLayout>
+                    
+                    
+                    <StackLayout Orientation="Horizontal">
+                        <StackLayout Orientation="Vertical" HorizontalOptions="StartAndExpand">
+                            <Label Text="EXPIRATION DATE" TextColor="Black" ></Label>
+                            <Label Text="29/11/2023" TextColor="Black" ></Label>
+                        </StackLayout>
+
+                        <StackLayout Orientation="Vertical" Margin="45,0">
+                            <Label Text="CVV" TextColor="Black"></Label>
+                            <Label Text="321" TextColor="Black" ></Label>
+                        </StackLayout>
+
+
+                    </StackLayout>
+
+                    
+
+                </StackLayout>
+
+            </Grid>
+            <Button Text="NAZAD" Margin="20" TextColor="White" CornerRadius="20" BackgroundColor="#013243" Clicked="Button_Clicked"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

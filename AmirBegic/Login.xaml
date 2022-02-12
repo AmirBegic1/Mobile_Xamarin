@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AmirBegic.Login" BackgroundColor="Coral" >
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout>
+                <Label TextColor="White" FontSize="30" FontAttributes="Bold" HorizontalOptions="StartAndExpand" Margin="10" >Wellcome! </Label>
+                <Label TextColor="White" FontSize="20" HorizontalOptions="StartAndExpand" Margin="10" > Novi ste korisnik? </Label>
+
+                <Button BorderColor="White" Margin="20,0" CornerRadius="40" BorderWidth="3" BackgroundColor="Red" Text="SING UP" TextColor="White" Clicked="Button_Clicked" ></Button>
+            </StackLayout>
+            <StackLayout>
+                <Label Margin="10" x:Name="EntryUsername" Text="Username" TextColor="White" FontSize="15" FontAttributes="Bold" HorizontalOptions="StartAndExpand"></Label>
+                <Entry Placeholder="Enter your username"  PlaceholderColor="White">
+                    
+                </Entry>
+
+                <Label Margin="10" Text="Password" TextColor="White" FontSize="15" FontAttributes="Bold" HorizontalOptions="StartAndExpand"></Label>
+                <Entry x:Name="EntryPassword" Placeholder="Enter your Password.." IsPassword="True" TextColor="White" PlaceholderColor="White" >
+
+                </Entry>
+                <Button BorderColor="White" Margin="20,10" CornerRadius="40" BorderWidth="3" BackgroundColor="Transparent" Text="LOGIN" TextColor="White" Clicked="Button_Clicked_1" ></Button>
+
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AmirBegic.Ispis" >
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+            <Grid  >
+
+                <Grid Grid.Row="0" Margin="0,0,0,60" BackgroundColor="Coral" >
+                    <StackLayout>
+
+                        <Frame Margin="20" BackgroundColor="#24252a" CornerRadius="20" WidthRequest="250" HeightRequest="200">
+                            <StackLayout Orientation="Vertical">
+                                <Label Text="VISA" FontSize="Title" TextColor="White" FontAttributes="Bold" ></Label>
+                                <StackLayout  Orientation="Horizontal" VerticalOptions="CenterAndExpand" >
+                                    <StackLayout Orientation="Horizontal" VerticalOptions="CenterAndExpand" Margin="0" >
+                                        <Label Text="****" FontAttributes="Bold" FontSize="Large" TextColor="White" Margin="10,0"></Label>
+                                        <Label Text="****" FontAttributes="Bold" FontSize="Large" TextColor="White" Margin="10,0"></Label>
+                                        <Label Text="****" FontAttributes="Bold" FontSize="Large" TextColor="White" Margin="10,0"></Label>
+                                        <Label Text="****" FontAttributes="Bold" FontSize="Large" TextColor="White" Margin="10,0"></Label>
+                                    </StackLayout>
+
+                                    <Label Text="2345" FontAttributes="Bold" FontSize="Large" TextColor="White" Margin="0,20"></Label>
+                                </StackLayout>
+                                <Label Text="Amir Begić" TextColor="White"></Label>
+                            </StackLayout>
+
+                        </Frame>
+                    </StackLayout>
+
+                </Grid >
+                <Grid Grid.Row="1"  Margin="20,-60">
+                    <StackLayout Orientation="Vertical" Margin="20,20" HorizontalOptions="FillAndExpand">
+                        <StackLayout Orientation="Horizontal" Margin="0,0,0,20">
+                            <StackLayout Orientation="Vertical" HorizontalOptions="StartAndExpand">
+                                <Label Text="IME" TextColor="#e87e04"></Label>
+                                <Label Text="Amir Begić" ></Label>
+                            </StackLayout>
+
+                            <StackLayout Orientation="Vertical" >
+                                <Label Text="ID KARTICE" TextColor="#e87e04"></Label>
+                                <Label Text="VISA" ></Label>
+                            </StackLayout>
+
+                        </StackLayout>
+
+                        <StackLayout Orientation="Horizontal" Margin="0,0,0,20">
+                            <StackLayout Orientation="Vertical">
+                                <Label Text="BROJ KARTICE" TextColor="#e87e04"></Label>
+                                <Label Text="****   ****    ****    2345" ></Label>
+                            </StackLayout>
+
+                        </StackLayout>
+
+                        <StackLayout Orientation="Horizontal">
+                            <StackLayout Orientation="Vertical" HorizontalOptions="StartAndExpand">
+                                <Label Text="EXPIRATION DATE" TextColor="#e87e04" ></Label>
+                                <Label Text="29/11/2023" ></Label>
+                            </StackLayout>
+
+                            <StackLayout Orientation="Vertical" Margin="45,0">
+                                <Label Text="CVV" TextColor="#e87e04"></Label>
+                                <Label Text="321" ></Label>
+                            </StackLayout>
+
+
+                        </StackLayout>
+
+                        <Button Text="NAZAD" Margin="60,60,60,0" TextColor="White" CornerRadius="20" BackgroundColor="#013243" Clicked="Button_Clicked"></Button>
+
+                    </StackLayout>
+
+                </Grid>
+            </Grid>
+        </StackLayout>
+
+            
+            
+            
+            
+            
+            
+        </ScrollView>
+        
+        
+        
+    </ContentPage.Content>
+</ContentPage>
